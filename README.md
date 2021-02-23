@@ -14,3 +14,4 @@ My approach for finding the Unique Merchants from the list:
 **Note:**
 1. Not much preprocessing was required like stemming, lemmatization & stopword removal since they are already in Unique Name format i.e. no grammar was involved in this task.
 2. I have tried not to make much use of existing libraries except few places.
+3. Can get even better results by tuning the threshold value.
